@@ -1,9 +1,9 @@
-body {
-    background: #CCCCCC;
-}
-
 #banner {
     width: 100%;
+}
+
+.main {
+    background: #CCCCCC;
 }
 
 h1 {
@@ -20,6 +20,14 @@ p {
 
 em strong {
     color: #FF0000;
+}
+
+.profits {
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
 
 .items {
