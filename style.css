@@ -7,7 +7,11 @@
     padding: 30px;
 }
 
-h1 {
+.main-title {
+    padding: 20px;
+}
+
+.center-title {
     text-align: center;
 }
 
@@ -26,10 +30,6 @@ em strong {
 .profits {
     background: #FFFFFF;
     padding: 20px;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
