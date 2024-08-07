@@ -1,4 +1,4 @@
-# HTML e CSS: Ambientes de Desenvolvimento, Estrutura de Arquivos e Tags
+# Curso #1: HTML e CSS: Ambientes de Desenvolvimento, Estrutura de Arquivos e Tags
 
 Iniciando novo curso de HTML e CSS para me atualizar nos conceitos e nas novidades da linguagem de marcação.
 
