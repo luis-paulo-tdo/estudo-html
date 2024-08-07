@@ -1,6 +1,10 @@
 # HTML e CSS: Ambientes de Desenvolvimento, Estrutura de Arquivos e Tags
 
+Iniciando novo curso de HTML e CSS para me atualizar nos conceitos e nas novidades da linguagem de marcação.
+
 ## 1. O Editor de Código VS Code
+
+Primeira seção do curso básico de HTML e CSS do Alura, apresentando o editor que será usado para as aulas e os exercícios.
 
 ### 1.1. Apresentação
 
